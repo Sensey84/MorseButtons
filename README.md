@@ -20,5 +20,4 @@
     На выход 13 подключен внешний транзистор для подключения звукового
     элемента (пьезоизлучатель, маломощный динамик т.п.).
 
-    Для работы проекта необходимо наличие библиотеки Keypad library for Arduino
-от Mark Stanley**,** Alexander Brevig. 
+    Для работы проекта необходимо наличие библиотеки Keypad library for Arduino от Mark Stanley**,** Alexander Brevig. 
